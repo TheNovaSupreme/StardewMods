@@ -1,0 +1,8 @@
+{
+	"Name": "Vanilla Milk",
+	"Price": 200,
+	"Description": "A jug of vanilla milk.",
+	"Category": "Milk",
+	"Edibility": 23,
+	"Recipe": null
+}

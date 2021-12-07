@@ -1,0 +1,21 @@
+{
+    "Name": "FlavorfulCows",
+    "Author": "TheNovaSupreme",
+    "Version": "1.0.0",
+    "Description": "Adds cows which produce flavored milk",
+    "MinimumApiVersion": "3.13.0",    
+    "UniqueID": "TheNovaSupreme.FlavorfulCows",    
+    "UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "Paritee.BetterFarmAnimalVariety"
+    },
+	"Dependencies": [
+   {
+      "UniqueID": "Paritee.BetterFarmAnimalVariety"
+   },
+   {
+	   "UniqueID": "spacechase0.SpaceCore"
+   }
+]
+}

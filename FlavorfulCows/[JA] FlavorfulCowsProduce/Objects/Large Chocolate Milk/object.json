@@ -1,0 +1,8 @@
+{
+	"Name": "Large Chocolate Milk",
+	"Price": 300,
+	"Description": "A large jug of chocolate milk.",
+	"Category": "Milk",
+	"Edibility": 30,
+	"Recipe": null
+}

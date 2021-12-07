@@ -1,0 +1,8 @@
+{
+	"Name": "Large Strawberry Milk",
+	"Price": 300,
+	"Description": "A large jug of strawberry milk.",
+	"Category": "Milk",
+	"Edibility": 30,
+	"Recipe": null
+}

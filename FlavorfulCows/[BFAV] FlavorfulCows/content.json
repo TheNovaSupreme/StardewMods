@@ -1,0 +1,48 @@
+{
+  "Format": "3.2.4",
+  "Categories": 
+  [
+    {
+      "Action": "Create",
+      "Category": "Flavorful Cow",
+      "Types":
+	  [
+        {
+          "Type": "Vanilla Cow",
+          "Data": "2/5/Vanilla Milk/Large Vanilla Milk/cow/0/0/0/0/0/0/0/0/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/2500/Vanilla Cow/Barn",
+          "Sprites": {
+            "Adult": "assets/VanillaCow.png",
+            "Baby": "assets/BabyVanillaCow.png"
+          }
+        },
+        {
+          "Type": "Chocolate Cow",
+          "Data": "2/5/Chocolate Milk/Large Chocolate Milk/cow/0/0/0/0/0/0/0/0/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/2500/Chocolate Cow/Barn",
+          "Sprites": {
+            "Adult": "assets/ChocolateCow.png",
+            "Baby": "assets/BabyChocolateCow.png"
+          }
+        },
+        {
+          "Type": "Strawberry Cow",
+          "Data": "2/5/Strawberry Milk/Large Strawberry Milk/cow/0/0/0/0/0/0/0/0/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/2500/Strawberry Cow/Barn",
+          "Sprites": {
+            "Adult": "assets/StrawberryCow.png",
+            "Baby": "assets/BabyStrawberryCow.png"
+          }
+        }
+      ],
+      "Buildings": [
+        "Barn",
+        "Big Barn",
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Flavorful Cow",
+        "Description": "Cows. But more flavorful.",
+        "Icon": "assets/AnimalShopVanilla.png",
+        "Exclude": []
+      }
+    }
+  ]
+}

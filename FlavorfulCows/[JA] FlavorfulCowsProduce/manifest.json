@@ -1,0 +1,21 @@
+{
+    "Name": "FlavorfulCowsProduce",
+    "Author": "TheNovaSupreme",
+    "Version": "1.0.0",
+    "Description": "Adds the milk which the flavored cows produce",
+    "MinimumApiVersion": "3.13.0",    
+    "UniqueID": "TheNovaSupreme.FlavorfulCowsProduce",
+    "UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+	"Dependencies": [
+   {
+      "UniqueID": "spacechase0.JsonAssets"
+   },
+   {
+	   "UniqueID": "TheNovaSupreme.FlavorfulCows"
+   }
+]
+}

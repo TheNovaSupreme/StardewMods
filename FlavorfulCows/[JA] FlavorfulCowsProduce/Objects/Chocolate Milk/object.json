@@ -1,0 +1,12 @@
+{
+	"Name": "Chocolate Milk",
+	"Price": 200,
+	"CanSell": true,
+	"Description": "A jug of chocolate milk.",
+	"Category": "Milk",
+	"Edibility": 23,
+	"EdibleIsDrink": true,
+	"EdibleBuffs": null,
+	"Recipe": null,
+	"CanPurchase": false
+}
